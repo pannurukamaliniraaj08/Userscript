@@ -24,4 +24,6 @@ Because this is a custom userscript, you'll need a userscript manager installed 
 ## Before & After
 
 - **Before:** Standard cluttered YouTube feed with ads and Shorts.
+![Before Script](./styles/before.png)
 - **After:** Clean, distraction-free feed.
+![After Script](./styles/after.png)
