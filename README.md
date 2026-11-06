@@ -1,5 +1,6 @@
 # Userscript
 # Youtube but better
+**Ever thought of distraction-free Youtube because I have been distracted multiple times by YT. Here is the solution. Although, this is not a video ad blocker, it can still block advertisments and shorts from popping up on your for-you page and any other page**
 
 ## Features
 - **Ad & Sponsor Blocker:** Automatically hides feed ad slots and sponsor recommendation links.
