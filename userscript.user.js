@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         YouTube Declutter & Speed Control
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Removes YouTube feed ads and Shorts, and adds video speed control shortcuts.
+// @author       pannurukamaliniraaj08
+// @match        https://www.youtube.com/*
+// @grant        none
+// ==UserScript==
+
 function onEach(selector, callback) {
   const seen = new WeakSet();
 
