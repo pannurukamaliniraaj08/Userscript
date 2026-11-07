@@ -6,7 +6,7 @@
 // @author       pannurukamaliniraaj08
 // @match        https://www.youtube.com/*
 // @grant        none
-// ==UserScript==
+// ==/UserScript==
 
 function onEach(selector, callback) {
   const seen = new WeakSet();
